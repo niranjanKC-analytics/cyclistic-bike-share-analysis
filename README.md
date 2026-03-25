@@ -1,5 +1,7 @@
 # 🚴 Cyclistic Bike-Share Analysis
 
+Turning bike-share data into actionable insights for customer growth and operational optimization.
+
 **Business Intelligence Project | Google Business Intelligence Certificate**
 
 ---
@@ -15,7 +17,7 @@ Through data analysis and interactive dashboards, the project identifies differe
 Cyclistic aims to increase its customer base and improve station expansion decisions.
 
 **Key Question:**  
-How are subscribers vs. casual riders using Cyclistic bikes across time and location, and how can these insights drive business growth and operational efficiency?
+How are subscribers vs. casual riders using Cyclistic bikes across locations and time, and how can these insights drive business growth and operational efficiency?
 
 ---
 
@@ -44,7 +46,7 @@ The project follows a structured Business Intelligence workflow:
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboard & Insights
 ![Cyclistic Dashboard](dashboard/cyclistic-dashboard.png)
 
 👉 **Interactive Dashboard:**  
@@ -53,11 +55,13 @@ https://public.tableau.com/app/profile/niranjan.k.c5704/viz/CyclisticBikeUsageAn
 ---
 
 ## 📈 Key Insights
+The analysis revealed several important patterns in user behavior and system demand:
+
 - Subscriber usage is consistently higher than casual riders  
 - Peak demand occurs during summer months (May–October)  
 - High-demand neighborhoods include Chelsea and Lower East Side  
 - Strong commuter behavior among subscribers  
-- Congestion patterns indicate need for better bike distribution  
+- Congestion patterns indicate opportunities for improved bike distribution  
 
 ---
 
@@ -70,12 +74,12 @@ https://public.tableau.com/app/profile/niranjan.k.c5704/viz/CyclisticBikeUsageAn
 ---
 
 ## 🛠️ Skills Demonstrated
-- Data Analysis  
-- Data Cleaning & Preparation  
-- Tableau Dashboard Development  
-- Business Intelligence Reporting  
+- Data Analysis & Exploration  
+- Data Cleaning & Transformation  
+- Tableau Dashboard Design  
+- Business Intelligence & Reporting  
 - Stakeholder Requirement Analysis  
-- Insight Communication  
+- Data Storytelling & Insight Communication  
 
 ---
 
@@ -97,6 +101,13 @@ Available in `/docs` folder.
 This project was completed as part of the **Google Business Intelligence Professional Certificate**.
 
 📜 https://www.coursera.org/account/accomplishments/professional-cert/AWYCUXUYVCNC
+
+---
+
+## ⭐ Why This Project Matters
+This project demonstrates the ability to take a real-world business problem, analyze data, and deliver actionable insights through a professional dashboard.
+
+It reflects skills required for entry-level data analyst and business intelligence roles, including data analysis, visualization, and stakeholder-focused thinking.
 
 ---
 
