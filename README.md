@@ -113,5 +113,8 @@ It reflects skills required for entry-level data analyst and business intelligen
 
 ## 👤 Author
 **Niranjan K C**  
-Aspiring Data Analyst  
-https://www.linkedin.com/in/niranjan-k-c-44681334/
+Data Analyst | B.S. Information Technology — Towson University, May 2026  
+
+[![GitHub](https://img.shields.io/badge/GitHub-niranjanKC--analytics-black?logo=github)](https://github.com/niranjanKC-analytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Niranjan%20K%20C-blue?logo=linkedin)](https://www.linkedin.com/in/niranjan-k-c-44b681334/)
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?logo=tableau)](https://public.tableau.com/app/profile/niranjan.k.c5704/vizzes)
